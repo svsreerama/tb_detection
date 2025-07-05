@@ -12,7 +12,7 @@
 ## 🧠 Models Used
 
 - ✅ ResNet50
-- ✅ VGG16 (Best Accuracy: 93%)
+- ✅ VGG16 (Best Accuracy)
 - ✅ EfficientNetB0
 
 | Model            | Accuracy | Precision | Recall | F1-score | ROC-AUC |
